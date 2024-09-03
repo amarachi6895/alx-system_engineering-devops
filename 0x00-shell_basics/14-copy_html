@@ -1,0 +1,3 @@
+#!/bin/bash
+# Find all .html files in the current directory
+find . -maxdepth 1 -name '*.html' -exec cp -u {} ../ \;
