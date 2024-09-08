@@ -1,1 +1,1 @@
-SCHOOL
+echo -n "SCHOOL" > /tmp/magic/thisisaschoolfile

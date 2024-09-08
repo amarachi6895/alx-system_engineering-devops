@@ -1,1 +1,1 @@
-This is a text file
+echo "This is a plain text file." > /tmp/magic/thisisatextfile
