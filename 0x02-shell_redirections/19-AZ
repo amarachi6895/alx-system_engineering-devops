@@ -1,3 +1,2 @@
 #!/bin/bash
-# Script to replace 'A' with 'Z' and 'c' with 'e'
-tr 'Ac' 'Ze'
+tr "A" "Z" | tr "c" "e"
